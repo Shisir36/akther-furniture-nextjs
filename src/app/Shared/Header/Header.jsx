@@ -108,7 +108,7 @@ const Header = () => {
                     <div className=' flex justify-center gap-60'>
                         <div className=' inline-flex items-center gap-1'>
                             <BsTelephone className=' text-4xl text-[#616160]' />
-                            <p>12345678987654345678</p>
+                            <p>017777777777</p>
                         </div>
                         <div className='py-4'>
                            <Link href="/">
