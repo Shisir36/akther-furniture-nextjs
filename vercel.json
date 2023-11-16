@@ -1,9 +1,0 @@
-{
-    "version": 2,
-    "builds": [
-      {
-        "src": "page.js",
-        "use": "@now/node"
-      }
-    ]
-  }
