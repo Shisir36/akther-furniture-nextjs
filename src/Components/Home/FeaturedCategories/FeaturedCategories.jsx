@@ -38,7 +38,7 @@ const ImageCarousel = () => {
         return acc;
     }, []);
 
-    console.log(groupedImages);
+    console.log({groupedImages});
 
 
     const itemsPerPage = 5;
