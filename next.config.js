@@ -1,9 +1,19 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {}
+// /** @type {import('next').NextConfig} */
+// const nextConfig = {}
 
-module.exports = {
-    nextConfig,
-    images: {
-        domains: ['images.unsplash.com'], // Add any other domains for external images
-    },
-}
+// module.exports = {
+//     nextConfig,
+//     images: {
+//         domains: ['images.unsplash.com'], // Add any other domains for external images
+//     },
+// }
+
+
+/**
+ * @type {import('next').NextConfig}
+ */
+const nextConfig = {
+    /* config options here */
+  }
+   
+  module.exports = nextConfig
